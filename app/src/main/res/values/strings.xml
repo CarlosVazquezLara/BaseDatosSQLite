@@ -7,4 +7,14 @@
     <string name="IEdad">Ingresa tu edad</string>
     <string name="ISexo">Ingresa tu sexo</string>
     <string name="RbtnRegistrar">Registra</string>
+    <string name="listaregistros">Listado de Contactos</string>
+    <string name="listaelementos">Listar Usuarios</string>
+    <string name="dinformacion">Informacion Usuario</string>
+    <string name="dnombre">Nombre</string>
+    <string name="ddi" />
+    <string name="did">ID</string>
+    <string name="dedad">Edad</string>
+    <string name="dsexo">Sexo</string>
+    <string name="btnactualizard">Actualizar</string>
+    <string name="btnliminard">Eliminar</string>
 </resources>
